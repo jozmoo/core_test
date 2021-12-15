@@ -17,6 +17,8 @@
 
 */
 
+test
+
 ]]
 
 local target=sas.symget('_riskexec_entrypoint')
